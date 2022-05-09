@@ -3,8 +3,8 @@
     <channel>
         <title></title>
         <subtitle></subtitle>
-        <icon>https://dreamdivination.github.io/images/favicon.ico</icon>
-        <link>https://dreamdivination.github.io</link>
+        <icon>https://dreamdivination.github.io/dreamdivination/images/favicon.ico</icon>
+        <link>https://dreamdivination.github.io/dreamdivination</link>
         <author>
           <name>璇璣</name>
         </author>
@@ -13,11 +13,11 @@
         <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
         <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/06/Apache/Maven/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/06/Apache/Maven/</guid>
             <title>Maven</title>
-            <link>https://dreamdivination.github.io/2022/04/06/Apache/Maven/</link>
-            <category term="构建工具" scheme="https://dreamdivination.github.io/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/" />
-            <category term="Maven" scheme="https://dreamdivination.github.io/tags/Maven/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/06/Apache/Maven/</link>
+            <category term="构建工具" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/" />
+            <category term="Maven" scheme="https://dreamdivination.github.io/dreamdivination/tags/Maven/" />
             <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题&#34;&gt;#&lt;/a&gt; 问题&lt;/h1&gt;
 &lt;h2 id=&#34;打包时电脑强关后再-install-出错&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打包时电脑强关后再-install-出错&#34;&gt;#&lt;/a&gt; 打包时，电脑强关后，再 install 出错&lt;/h2&gt;
@@ -30,11 +30,24 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/06/NetFlix/Hystrix/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/06/Oracle/Oracle/</guid>
+            <title>Oracle</title>
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/06/Oracle/Oracle/</link>
+            <category term="DataBase" scheme="https://dreamdivination.github.io/dreamdivination/categories/DataBase/" />
+            <category term="数据库" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
+            <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9kYXRhYmFzZS90ZWNobm9sb2dpZXMv&#34;&gt;https://www.oracle.com/database/technologies/&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;linux-安装-oracle-11g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux-安装-oracle-11g&#34;&gt;#&lt;/a&gt; Linux 安装 Oracle 11g&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/06/NetFlix/Hystrix/</guid>
             <title>Hystrix</title>
-            <link>https://dreamdivination.github.io/2022/04/06/NetFlix/Hystrix/</link>
-            <category term="服务降级" scheme="https://dreamdivination.github.io/categories/%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/06/NetFlix/Hystrix/</link>
+            <category term="服务降级" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -64,24 +77,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/06/Oracle/Oracle/</guid>
-            <title>Oracle</title>
-            <link>https://dreamdivination.github.io/2022/04/06/Oracle/Oracle/</link>
-            <category term="DataBase" scheme="https://dreamdivination.github.io/categories/DataBase/" />
-            <category term="数据库" scheme="https://dreamdivination.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
-            <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9kYXRhYmFzZS90ZWNobm9sb2dpZXMv&#34;&gt;https://www.oracle.com/database/technologies/&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;linux-安装-oracle-11g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux-安装-oracle-11g&#34;&gt;#&lt;/a&gt; Linux 安装 Oracle 11g&lt;/h1&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/05/NetFlix/Feign/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/05/NetFlix/Feign/</guid>
             <title>Feign</title>
-            <link>https://dreamdivination.github.io/2022/04/05/NetFlix/Feign/</link>
-            <category term="服务调用" scheme="https://dreamdivination.github.io/categories/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/05/NetFlix/Feign/</link>
+            <category term="服务调用" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Tue, 05 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -142,11 +142,11 @@
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token annotation punctuation&#34;&gt;@Configuration&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;FeignConfig&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Bean&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;Logger&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;Level&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;feignLoggerLevel&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Logger&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;Level&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;FULL&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;logging&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;level&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;com.dream.service.Service&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; debug&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/04/NetFlix/Ribbon/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/04/NetFlix/Ribbon/</guid>
             <title>Ribbon</title>
-            <link>https://dreamdivination.github.io/2022/04/04/NetFlix/Ribbon/</link>
-            <category term="负载均衡" scheme="https://dreamdivination.github.io/categories/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/04/NetFlix/Ribbon/</link>
+            <category term="负载均衡" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Mon, 04 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -236,11 +236,11 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;MyIRule&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;extends&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;AbstractLoadBalancerRule&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Override&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;initWithNiwsConfig&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;IClientConfig&lt;/span&gt; iClientConfig&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Override&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Server&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;choose&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Object&lt;/span&gt; key&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token comment&#34;&gt;// 具体实现&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/03/CDF/Jenkins/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/03/CDF/Jenkins/</guid>
             <title>Jenkins</title>
-            <link>https://dreamdivination.github.io/2022/04/03/CDF/Jenkins/</link>
-            <category term="持续交付" scheme="https://dreamdivination.github.io/categories/%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/03/CDF/Jenkins/</link>
+            <category term="持续交付" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Sun, 03 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamVua2lucy5pby96aC8=&#34;&gt;https://www.jenkins.io/zh/&lt;/span&gt;&lt;/p&gt;
@@ -269,11 +269,11 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 停止服务&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;systemctl stop jenkins.service&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# rpm 卸载&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -e jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 检查是否卸载成功&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -ql jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 彻底删除残留文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;find&lt;/span&gt; / -iname jenkins &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;xargs&lt;/span&gt; -n &lt;span class=&#34;token number&#34;&gt;1000&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;rm&lt;/span&gt; -rf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 查看是否还有 jenkins 依赖，有就删除&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -qa &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;grep&lt;/span&gt; jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/02/CAP%E7%90%86%E8%AE%BA/</guid>
             <title>CAP理论</title>
-            <link>https://dreamdivination.github.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/</link>
-            <category term="注册中心" scheme="https://dreamdivination.github.io/categories/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/02/CAP%E7%90%86%E8%AE%BA/</link>
+            <category term="注册中心" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Sat, 02 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -334,12 +334,12 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/04/01/Swagger/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/04/01/Swagger/</guid>
             <title>Swagger</title>
-            <link>https://dreamdivination.github.io/2022/04/01/Swagger/</link>
-            <category term="SpringBoot" scheme="https://dreamdivination.github.io/categories/SpringBoot/" />
-            <category term="接口文档" scheme="https://dreamdivination.github.io/categories/SpringBoot/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/" />
-            <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/04/01/Swagger/</link>
+            <category term="SpringBoot" scheme="https://dreamdivination.github.io/dreamdivination/categories/SpringBoot/" />
+            <category term="接口文档" scheme="https://dreamdivination.github.io/dreamdivination/categories/SpringBoot/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/" />
+            <category term="Java" scheme="https://dreamdivination.github.io/dreamdivination/tags/Java/" />
             <pubDate>Fri, 01 Apr 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;swagger-2-3-的区别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swagger-2-3-的区别&#34;&gt;#&lt;/a&gt; Swagger 2 &amp;amp; 3 的区别&lt;/h1&gt;
 &lt;h2 id=&#34;依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖&#34;&gt;#&lt;/a&gt; 依赖&lt;/h2&gt;
@@ -811,13 +811,13 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/03/31/HashiCorp/Consul/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/03/31/HashiCorp/Consul/</guid>
             <title>Consul</title>
-            <link>https://dreamdivination.github.io/2022/03/31/HashiCorp/Consul/</link>
-            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
-            <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-            <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/03/31/HashiCorp/Consul/</link>
+            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/" />
+            <category term="注册中心" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <category term="Java" scheme="https://dreamdivination.github.io/dreamdivination/tags/Java/" />
             <pubDate>Thu, 31 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;h2 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h2&gt;
@@ -864,11 +864,11 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/03/30/Chocolatey/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/03/30/Chocolatey/</guid>
             <title>Chocolatey</title>
-            <link>https://dreamdivination.github.io/2022/03/30/Chocolatey/</link>
-            <category term="包管理器" scheme="https://dreamdivination.github.io/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/" />
-            <category term="Win" scheme="https://dreamdivination.github.io/tags/Win/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/03/30/Chocolatey/</link>
+            <category term="包管理器" scheme="https://dreamdivination.github.io/dreamdivination/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/" />
+            <category term="Win" scheme="https://dreamdivination.github.io/dreamdivination/tags/Win/" />
             <pubDate>Wed, 30 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;Chocolatey 是一款专为 Windows 系统开发的、基于 NuGet 的包管理器工具，类似于 Node.js 的 npm，MacOS 的 brew，Ubuntu 的 apt-get，它简称为 choco。Chocolatey 的设计目标是成为一个去中心化的框架，便于开发者按需快速安装应用程序和工具。&lt;/p&gt;
@@ -912,13 +912,13 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/03/30/Apache/Zookeeper/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/03/30/Apache/Zookeeper/</guid>
             <title>Zookeeper</title>
-            <link>https://dreamdivination.github.io/2022/03/30/Apache/Zookeeper/</link>
-            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
-            <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-            <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/03/30/Apache/Zookeeper/</link>
+            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/" />
+            <category term="注册中心" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <category term="Java" scheme="https://dreamdivination.github.io/dreamdivination/tags/Java/" />
             <pubDate>Wed, 30 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h1&gt;
 &lt;h2 id=&#34;zookeeper&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper&#34;&gt;#&lt;/a&gt; Zookeeper&lt;/h2&gt;
@@ -1005,13 +1005,13 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://dreamdivination.github.io/2022/03/29/NetFlix/Eureka/</guid>
+            <guid isPermalink="true">https://dreamdivination.github.io/dreamdivination/2022/03/29/NetFlix/Eureka/</guid>
             <title>Eureka</title>
-            <link>https://dreamdivination.github.io/2022/03/29/NetFlix/Eureka/</link>
-            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
-            <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-            <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
+            <link>https://dreamdivination.github.io/dreamdivination/2022/03/29/NetFlix/Eureka/</link>
+            <category term="Spring Cloud" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/" />
+            <category term="注册中心" scheme="https://dreamdivination.github.io/dreamdivination/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+            <category term="微服务" scheme="https://dreamdivination.github.io/dreamdivination/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+            <category term="Java" scheme="https://dreamdivination.github.io/dreamdivination/tags/Java/" />
             <pubDate>Tue, 29 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h1&gt;
 &lt;h2 id=&#34;服务治理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务治理&#34;&gt;#&lt;/a&gt; 服务治理&lt;/h2&gt;
