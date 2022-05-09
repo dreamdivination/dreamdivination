@@ -47,6 +47,36 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/</guid>
+            <title>Oracle</title>
+            <link>https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/</link>
+            <category term="DataBase" scheme="https://dreamdivination.gitee.io/categories/DataBase/" />
+            <category term="数据库" scheme="https://dreamdivination.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
+            <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9kYXRhYmFzZS90ZWNobm9sb2dpZXMv&#34;&gt;https://www.oracle.com/database/technologies/&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;linux-安装-oracle-11g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux-安装-oracle-11g&#34;&gt;#&lt;/a&gt; Linux 安装 Oracle 11g&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/</guid>
+            <title>Maven</title>
+            <link>https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/</link>
+            <category term="构建工具" scheme="https://dreamdivination.gitee.io/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/" />
+            <category term="Maven" scheme="https://dreamdivination.gitee.io/tags/Maven/" />
+            <pubDate>Wed, 06 Apr 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题&#34;&gt;#&lt;/a&gt; 问题&lt;/h1&gt;
+&lt;h2 id=&#34;打包时电脑强关后再-install-出错&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打包时电脑强关后再-install-出错&#34;&gt;#&lt;/a&gt; 打包时，电脑强关后，再 install 出错&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;only whitespace content allowed before start tag and not \u0 (position: START_DOCUMENT seen \u0... @1:1) 异常&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;解决方式:&lt;/p&gt;
+&lt;p&gt;1・在你的 maven 本地仓库文件夹下搜索&lt;strong&gt; maven-metadata-local.xml&lt;/strong&gt; 文件，找到你要打包的那个项目名称对应的这个文件&lt;br /&gt;
+ 2・把与当前项目有关的所有该文件删掉，重新打包即可&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/</guid>
             <title>Feign</title>
             <link>https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/</link>
@@ -786,8 +816,8 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
             <link>https://dreamdivination.gitee.io/2022/03/31/HashiCorp/Consul/</link>
             <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
             <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Thu, 31 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;h2 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h2&gt;
@@ -887,8 +917,8 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
             <link>https://dreamdivination.gitee.io/2022/03/30/Apache/Zookeeper/</link>
             <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
             <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Wed, 30 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h1&gt;
 &lt;h2 id=&#34;zookeeper&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper&#34;&gt;#&lt;/a&gt; Zookeeper&lt;/h2&gt;
@@ -980,8 +1010,8 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
             <link>https://dreamdivination.gitee.io/2022/03/29/NetFlix/Eureka/</link>
             <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
             <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+            <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
             <pubDate>Tue, 29 Mar 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h1&gt;
 &lt;h2 id=&#34;服务治理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务治理&#34;&gt;#&lt;/a&gt; 服务治理&lt;/h2&gt;

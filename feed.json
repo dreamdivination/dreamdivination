@@ -18,6 +18,28 @@
             ]
         },
         {
+            "id": "https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/",
+            "url": "https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/",
+            "title": "Oracle",
+            "date_published": "2022-04-05T16:00:00.000Z",
+            "content_html": "<blockquote>\n<p>官网：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9kYXRhYmFzZS90ZWNobm9sb2dpZXMv\">https://www.oracle.com/database/technologies/</span></p>\n</blockquote>\n<h1 id=\"linux-安装-oracle-11g\"><a class=\"anchor\" href=\"#linux-安装-oracle-11g\">#</a> Linux 安装 Oracle 11g</h1>\n",
+            "tags": [
+                "DataBase",
+                "数据库"
+            ]
+        },
+        {
+            "id": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
+            "url": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
+            "title": "Maven",
+            "date_published": "2022-04-05T16:00:00.000Z",
+            "content_html": "<h1 id=\"问题\"><a class=\"anchor\" href=\"#问题\">#</a> 问题</h1>\n<h2 id=\"打包时电脑强关后再-install-出错\"><a class=\"anchor\" href=\"#打包时电脑强关后再-install-出错\">#</a> 打包时，电脑强关后，再 install 出错</h2>\n<blockquote>\n<p>only whitespace content allowed before start tag and not \\u0 (position: START_DOCUMENT seen \\u0... @1:1) 异常</p>\n</blockquote>\n<p>解决方式:</p>\n<p>1・在你的 maven 本地仓库文件夹下搜索<strong> maven-metadata-local.xml</strong> 文件，找到你要打包的那个项目名称对应的这个文件<br />\n 2・把与当前项目有关的所有该文件删掉，重新打包即可</p>\n",
+            "tags": [
+                "构建工具",
+                "Maven"
+            ]
+        },
+        {
             "id": "https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/",
             "url": "https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/",
             "title": "Feign",
@@ -82,8 +104,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "微服务",
-                "Java"
+                "Java",
+                "微服务"
             ]
         },
         {
@@ -106,8 +128,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "微服务",
-                "Java"
+                "Java",
+                "微服务"
             ]
         },
         {
@@ -119,8 +141,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "微服务",
-                "Java"
+                "Java",
+                "微服务"
             ]
         }
     ]
