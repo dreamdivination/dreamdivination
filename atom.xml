@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dreamdivination.gitee.io</id>
+    <id>https://dreamdivination.github.io</id>
     <title></title>
     <subtitle></subtitle>
-    <icon>https://dreamdivination.gitee.io/images/favicon.ico</icon>
-    <link href="https://dreamdivination.gitee.io" />
+    <icon>https://dreamdivination.github.io/images/favicon.ico</icon>
+    <link href="https://dreamdivination.github.io" />
     <author>
       <name>璇璣</name>
     </author>
     <updated>2022-04-05T16:00:00.000Z</updated>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/</id>
+        <id>https://dreamdivination.github.io/2022/04/06/Apache/Maven/</id>
         <title>Maven</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/06/Apache/Maven/"/>
         <content type="html">&lt;h1 id=&#34;问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题&#34;&gt;#&lt;/a&gt; 问题&lt;/h1&gt;
 &lt;h2 id=&#34;打包时电脑强关后再-install-出错&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打包时电脑强关后再-install-出错&#34;&gt;#&lt;/a&gt; 打包时，电脑强关后，再 install 出错&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -22,14 +22,14 @@
 &lt;p&gt;1・在你的 maven 本地仓库文件夹下搜索&lt;strong&gt; maven-metadata-local.xml&lt;/strong&gt; 文件，找到你要打包的那个项目名称对应的这个文件&lt;br /&gt;
  2・把与当前项目有关的所有该文件删掉，重新打包即可&lt;/p&gt;
 </content>
-        <category term="构建工具" scheme="https://dreamdivination.gitee.io/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/" />
-        <category term="Maven" scheme="https://dreamdivination.gitee.io/tags/Maven/" />
+        <category term="构建工具" scheme="https://dreamdivination.github.io/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/" />
+        <category term="Maven" scheme="https://dreamdivination.github.io/tags/Maven/" />
         <updated>2022-04-05T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/06/NetFlix/Hystrix/</id>
+        <id>https://dreamdivination.github.io/2022/04/06/NetFlix/Hystrix/</id>
         <title>Hystrix</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/06/NetFlix/Hystrix/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/06/NetFlix/Hystrix/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hystrix 是一个用于处理分布式系统的&lt;strong&gt;延迟&lt;/strong&gt;和&lt;strong&gt;容错&lt;/strong&gt;的开源库，在分布式系统里，许多依赖不可避免的会调用失败，比如超时、异常等，Hystrix 能够保证在一个依赖出问题的情况下，不会导致整体服务失败，避免级联故障，以提高分布式系统的弹性&lt;br /&gt;
@@ -56,27 +56,27 @@
 &lt;p&gt;秒杀高并发等操作，严禁一窝蜂的过来拥挤，大家排队，一秒钟 n 个，有序进行&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="服务降级" scheme="https://dreamdivination.gitee.io/categories/%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="服务降级" scheme="https://dreamdivination.github.io/categories/%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
         <updated>2022-04-05T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/</id>
+        <id>https://dreamdivination.github.io/2022/04/06/Oracle/Oracle/</id>
         <title>Oracle</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/06/Oracle/Oracle/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/06/Oracle/Oracle/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9kYXRhYmFzZS90ZWNobm9sb2dpZXMv&#34;&gt;https://www.oracle.com/database/technologies/&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;linux-安装-oracle-11g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux-安装-oracle-11g&#34;&gt;#&lt;/a&gt; Linux 安装 Oracle 11g&lt;/h1&gt;
 </content>
-        <category term="DataBase" scheme="https://dreamdivination.gitee.io/categories/DataBase/" />
-        <category term="数据库" scheme="https://dreamdivination.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
+        <category term="DataBase" scheme="https://dreamdivination.github.io/categories/DataBase/" />
+        <category term="数据库" scheme="https://dreamdivination.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" />
         <updated>2022-04-05T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/</id>
+        <id>https://dreamdivination.github.io/2022/04/05/NetFlix/Feign/</id>
         <title>Feign</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/05/NetFlix/Feign/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/05/NetFlix/Feign/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Feign 是一个声明式 WebService 客户端，使用 Feign 能让编写 WebService 客户端更加简单&lt;br /&gt;
@@ -134,14 +134,14 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;配置文件-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置文件-2&#34;&gt;#&lt;/a&gt; 配置文件&lt;/h3&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token annotation punctuation&#34;&gt;@Configuration&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;FeignConfig&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Bean&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;Logger&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;Level&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;feignLoggerLevel&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Logger&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;Level&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;FULL&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;logging&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;level&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;com.dream.service.Service&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; debug&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="服务调用" scheme="https://dreamdivination.gitee.io/categories/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="服务调用" scheme="https://dreamdivination.github.io/categories/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
         <updated>2022-04-04T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/04/NetFlix/Ribbon/</id>
+        <id>https://dreamdivination.github.io/2022/04/04/NetFlix/Ribbon/</id>
         <title>Ribbon</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/04/NetFlix/Ribbon/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/04/NetFlix/Ribbon/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Spring Cloud Ribbon 是一个基于 HTTP 和 TCP 的客户端负载均衡工具，它基于 Netflix Ribbon 实现&lt;br /&gt;
@@ -228,14 +228,14 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
 &lt;h4 id=&#34;编写接口-实现类并在实现类上加-component&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#编写接口-实现类并在实现类上加-component&#34;&gt;#&lt;/a&gt; 编写接口、实现类，并在实现类上加 @Component&lt;/h4&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token annotation punctuation&#34;&gt;@Resource&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;private&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;LoadBalancer&lt;/span&gt; loadBalancer&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token annotation punctuation&#34;&gt;@Resource&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;private&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;DiscoveryClient&lt;/span&gt; discoveryClient&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token annotation punctuation&#34;&gt;@GetMapping&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;/get/lb&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Result&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;getLb&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;List&lt;/span&gt;&lt;span class=&#34;token generics&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;ServiceInstance&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt; instanceList &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; discoveryClient&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getInstances&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;eureka-server-name&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;ServiceInstance&lt;/span&gt; serviceInstance &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; loadBalancer&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;instance&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;instanceList&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;URI&lt;/span&gt; uri &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; serviceInstance&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getUri&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; template&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getForObject&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;uri &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;/get&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;继承-abstractloadbalancerrule实现其中的-choose-方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#继承-abstractloadbalancerrule实现其中的-choose-方法&#34;&gt;#&lt;/a&gt; 继承 AbstractLoadBalancerRule，实现其中的 choose 方法&lt;/h4&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;MyIRule&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;extends&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;AbstractLoadBalancerRule&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Override&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;initWithNiwsConfig&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;IClientConfig&lt;/span&gt; iClientConfig&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token annotation punctuation&#34;&gt;@Override&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Server&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;choose&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Object&lt;/span&gt; key&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token comment&#34;&gt;// 具体实现&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="负载均衡" scheme="https://dreamdivination.gitee.io/categories/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="负载均衡" scheme="https://dreamdivination.github.io/categories/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
         <updated>2022-04-03T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/03/CDF/Jenkins/</id>
+        <id>https://dreamdivination.github.io/2022/04/03/CDF/Jenkins/</id>
         <title>Jenkins</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/03/CDF/Jenkins/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/03/CDF/Jenkins/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamVua2lucy5pby96aC8=&#34;&gt;https://www.jenkins.io/zh/&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -261,14 +261,14 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
 &lt;h3 id=&#34;查看默认密码并登录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看默认密码并登录&#34;&gt;#&lt;/a&gt; 查看默认密码并登录&lt;/h3&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;cat&lt;/span&gt; /var/lib/jenkins/secrets/initialAdminPassword&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;卸载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#卸载&#34;&gt;#&lt;/a&gt; 卸载&lt;/h2&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 停止服务&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;systemctl stop jenkins.service&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# rpm 卸载&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -e jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 检查是否卸载成功&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -ql jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 彻底删除残留文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;find&lt;/span&gt; / -iname jenkins &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;xargs&lt;/span&gt; -n &lt;span class=&#34;token number&#34;&gt;1000&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;rm&lt;/span&gt; -rf&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 查看是否还有 jenkins 依赖，有就删除&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rpm&lt;/span&gt; -qa &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;grep&lt;/span&gt; jenkins&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="持续交付" scheme="https://dreamdivination.gitee.io/categories/%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="持续交付" scheme="https://dreamdivination.github.io/categories/%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
         <updated>2022-04-02T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/</id>
+        <id>https://dreamdivination.github.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/</id>
         <title>CAP理论</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/02/CAP%E7%90%86%E8%AE%BA/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在理论计算机科学中，CAP 定理（CAP theorem），又被称作布鲁尔定理（Brewer&#39;s theorem），它指出对于一个分布式计算系统来说，不可能同时满足以下三点：&lt;/p&gt;
@@ -326,14 +326,14 @@ Ribbon：本地负载均衡，在调用微服务接口时，会在注册中心�
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="注册中心" scheme="https://dreamdivination.github.io/categories/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
         <updated>2022-04-01T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/04/01/Swagger/</id>
+        <id>https://dreamdivination.github.io/2022/04/01/Swagger/</id>
         <title>Swagger</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/04/01/Swagger/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/04/01/Swagger/"/>
         <content type="html">&lt;h1 id=&#34;swagger-2-3-的区别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swagger-2-3-的区别&#34;&gt;#&lt;/a&gt; Swagger 2 &amp;amp; 3 的区别&lt;/h1&gt;
 &lt;h2 id=&#34;依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖&#34;&gt;#&lt;/a&gt; 依赖&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -802,15 +802,15 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
 &lt;h2 id=&#34;apiignore用于类或者方法上不被显示在页面上&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apiignore用于类或者方法上不被显示在页面上&#34;&gt;#&lt;/a&gt; @ApiIgnore ()：用于类或者方法上，不被显示在页面上&lt;/h2&gt;
 &lt;h2 id=&#34;profiledev-test用于配置类上表示只对开发和测试环境有用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#profiledev-test用于配置类上表示只对开发和测试环境有用&#34;&gt;#&lt;/a&gt; @Profile ({&amp;quot;dev&amp;quot;, &amp;quot;test&amp;quot;})：用于配置类上，表示只对开发和测试环境有用&lt;/h2&gt;
 </content>
-        <category term="SpringBoot" scheme="https://dreamdivination.gitee.io/categories/SpringBoot/" />
-        <category term="接口文档" scheme="https://dreamdivination.gitee.io/categories/SpringBoot/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/" />
-        <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+        <category term="SpringBoot" scheme="https://dreamdivination.github.io/categories/SpringBoot/" />
+        <category term="接口文档" scheme="https://dreamdivination.github.io/categories/SpringBoot/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/" />
+        <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
         <updated>2022-03-31T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/03/31/HashiCorp/Consul/</id>
+        <id>https://dreamdivination.github.io/2022/03/31/HashiCorp/Consul/</id>
         <title>Consul</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/03/31/HashiCorp/Consul/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/03/31/HashiCorp/Consul/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;h2 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -854,16 +854,16 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
 &lt;p&gt;将同一注册中心的服务，通过&lt;strong&gt; RestTemplate&lt;/strong&gt; 对 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NvbnN1bC1zZXJ2ZXItbmFtZS8q&#34;&gt;http://consul-server-name/*&lt;/span&gt; 进行请求&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
-        <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-        <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+        <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
+        <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
         <updated>2022-03-30T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/03/30/Chocolatey/</id>
+        <id>https://dreamdivination.github.io/2022/03/30/Chocolatey/</id>
         <title>Chocolatey</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/03/30/Chocolatey/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/03/30/Chocolatey/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;Chocolatey 是一款专为 Windows 系统开发的、基于 NuGet 的包管理器工具，类似于 Node.js 的 npm，MacOS 的 brew，Ubuntu 的 apt-get，它简称为 choco。Chocolatey 的设计目标是成为一个去中心化的框架，便于开发者按需快速安装应用程序和工具。&lt;/p&gt;
 &lt;p&gt;Chocolatey 的官网： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaG9jb2xhdGV5Lm9yZy8=&#34;&gt;https://chocolatey.org/&lt;/span&gt;&lt;/p&gt;
@@ -904,14 +904,14 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
 &lt;p&gt;软件包的推荐顺序： 无后缀 &amp;gt; .install &amp;gt; .portable &amp;gt; .commandline&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="包管理器" scheme="https://dreamdivination.gitee.io/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/" />
-        <category term="Win" scheme="https://dreamdivination.gitee.io/tags/Win/" />
+        <category term="包管理器" scheme="https://dreamdivination.github.io/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/" />
+        <category term="Win" scheme="https://dreamdivination.github.io/tags/Win/" />
         <updated>2022-03-29T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/03/30/Apache/Zookeeper/</id>
+        <id>https://dreamdivination.github.io/2022/03/30/Apache/Zookeeper/</id>
         <title>Zookeeper</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/03/30/Apache/Zookeeper/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/03/30/Apache/Zookeeper/"/>
         <content type="html">&lt;h1 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h1&gt;
 &lt;h2 id=&#34;zookeeper&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#zookeeper&#34;&gt;#&lt;/a&gt; Zookeeper&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -995,16 +995,16 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
 &lt;p&gt;将同一注册中心的服务，通过&lt;strong&gt; RestTemplate&lt;/strong&gt; 对 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3prLXNlcnZlci1uYW1lLyo=&#34;&gt;http://zk-server-name/*&lt;/span&gt; 进行请求&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
-        <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-        <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+        <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
+        <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
         <updated>2022-03-29T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://dreamdivination.gitee.io/2022/03/29/NetFlix/Eureka/</id>
+        <id>https://dreamdivination.github.io/2022/03/29/NetFlix/Eureka/</id>
         <title>Eureka</title>
-        <link rel="alternate" href="https://dreamdivination.gitee.io/2022/03/29/NetFlix/Eureka/"/>
+        <link rel="alternate" href="https://dreamdivination.github.io/2022/03/29/NetFlix/Eureka/"/>
         <content type="html">&lt;h1 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h1&gt;
 &lt;h2 id=&#34;服务治理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务治理&#34;&gt;#&lt;/a&gt; 服务治理&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1085,10 +1085,10 @@ Swagger 3：DocumentationType.OAS_30&lt;/p&gt;
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;eureka&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;instance&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 服务续约任务调用间隔时间  client 每隔 30 秒向 server 上报自己状态，避免被 server 剔除&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;lease-renewal-interval-in-seconds&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;30&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 服务时效时间  当 server 90 秒内没有收到 client 的注册信息时，会将该节点剔除&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;lease-expiration-duration-in-seconds&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;90&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 注册服务时是否使用 IP 注册&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;prefer-ip-address&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# server 端的 ip 地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;ip-address&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# server 端的 hostname&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;hostname&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; localhost&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 注册到 server 的实例&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    instance&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;id&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;pre&gt;&lt;code&gt;
 &lt;/code&gt;&lt;/pre&gt;
 </content>
-        <category term="Spring Cloud" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/" />
-        <category term="注册中心" scheme="https://dreamdivination.gitee.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
-        <category term="微服务" scheme="https://dreamdivination.gitee.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
-        <category term="Java" scheme="https://dreamdivination.gitee.io/tags/Java/" />
+        <category term="Spring Cloud" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/" />
+        <category term="注册中心" scheme="https://dreamdivination.github.io/categories/Spring-Cloud/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/" />
+        <category term="微服务" scheme="https://dreamdivination.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" />
+        <category term="Java" scheme="https://dreamdivination.github.io/tags/Java/" />
         <updated>2022-03-28T16:00:00.000Z</updated>
     </entry>
 </feed>
