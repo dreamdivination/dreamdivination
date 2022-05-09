@@ -7,6 +7,17 @@
     "home_page_url": "https://dreamdivination.gitee.io",
     "items": [
         {
+            "id": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
+            "url": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
+            "title": "Maven",
+            "date_published": "2022-04-05T16:00:00.000Z",
+            "content_html": "<h1 id=\"问题\"><a class=\"anchor\" href=\"#问题\">#</a> 问题</h1>\n<h2 id=\"打包时电脑强关后再-install-出错\"><a class=\"anchor\" href=\"#打包时电脑强关后再-install-出错\">#</a> 打包时，电脑强关后，再 install 出错</h2>\n<blockquote>\n<p>only whitespace content allowed before start tag and not \\u0 (position: START_DOCUMENT seen \\u0... @1:1) 异常</p>\n</blockquote>\n<p>解决方式:</p>\n<p>1・在你的 maven 本地仓库文件夹下搜索<strong> maven-metadata-local.xml</strong> 文件，找到你要打包的那个项目名称对应的这个文件<br />\n 2・把与当前项目有关的所有该文件删掉，重新打包即可</p>\n",
+            "tags": [
+                "构建工具",
+                "Maven"
+            ]
+        },
+        {
             "id": "https://dreamdivination.gitee.io/2022/04/06/NetFlix/Hystrix/",
             "url": "https://dreamdivination.gitee.io/2022/04/06/NetFlix/Hystrix/",
             "title": "Hystrix",
@@ -26,17 +37,6 @@
             "tags": [
                 "DataBase",
                 "数据库"
-            ]
-        },
-        {
-            "id": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
-            "url": "https://dreamdivination.gitee.io/2022/04/06/Apache/Maven/",
-            "title": "Maven",
-            "date_published": "2022-04-05T16:00:00.000Z",
-            "content_html": "<h1 id=\"问题\"><a class=\"anchor\" href=\"#问题\">#</a> 问题</h1>\n<h2 id=\"打包时电脑强关后再-install-出错\"><a class=\"anchor\" href=\"#打包时电脑强关后再-install-出错\">#</a> 打包时，电脑强关后，再 install 出错</h2>\n<blockquote>\n<p>only whitespace content allowed before start tag and not \\u0 (position: START_DOCUMENT seen \\u0... @1:1) 异常</p>\n</blockquote>\n<p>解决方式:</p>\n<p>1・在你的 maven 本地仓库文件夹下搜索<strong> maven-metadata-local.xml</strong> 文件，找到你要打包的那个项目名称对应的这个文件<br />\n 2・把与当前项目有关的所有该文件删掉，重新打包即可</p>\n",
-            "tags": [
-                "构建工具",
-                "Maven"
             ]
         },
         {
@@ -104,8 +104,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "Java",
-                "微服务"
+                "微服务",
+                "Java"
             ]
         },
         {
@@ -128,8 +128,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "Java",
-                "微服务"
+                "微服务",
+                "Java"
             ]
         },
         {
@@ -141,8 +141,8 @@
             "tags": [
                 "Spring Cloud",
                 "注册中心",
-                "Java",
-                "微服务"
+                "微服务",
+                "Java"
             ]
         }
     ]
